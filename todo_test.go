@@ -1,9 +1,9 @@
-package todo
+package to
 
 import "testing"
 
-func TestTODO(t *testing.T) {
+func TestDo(t *testing.T) {
 	str := "STRING"
 	i := 32
-	TODO(str, i)
+	Do(str, i)
 }

@@ -1,6 +1,5 @@
-// Package todo provides single function TODO that can avoids "declared but not used" error.
-package todo
+// Package to provides single function Do that can avoids "declared but not used" error.
+package to
 
-// TODO does nothing.
-func TODO(i ...interface{}) {
-}
+// Do does nothing.
+func Do(v ...interface{}) {}
