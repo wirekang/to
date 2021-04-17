@@ -19,7 +19,7 @@ func ExampleFunction () {
   iwill,use := ...();
   this := ...();
 
-  var later ExapleType
+  var later Sometype
 
   to.Do(iwill,use,this,later)
 }
