@@ -1,6 +1,6 @@
 # to
 
-A simple packages for golang that provides single function **Do** that can avoids "declared but not used" error.
+A simple packages for golang that provides single function **Do** that can avoids ```declared but not used``` error.
 
 ## Usage
 
