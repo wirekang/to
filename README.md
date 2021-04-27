@@ -14,9 +14,7 @@ to.Do(v1,v2...)
 ## Example
 
 ```go
-func ExampleFunction () {
-  var unusedvar
+var unusedvar int
 
-  to.Do(unusedvar)
-}
+to.Do(unusedvar)
 ```
