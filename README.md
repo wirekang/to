@@ -15,12 +15,8 @@ to.Do(v1,v2...)
 
 ```go
 func ExampleFunction () {
+  var unusedvar
 
-  iwill,use := ...();
-  this := ...();
-
-  var later Sometype
-
-  to.Do(iwill,use,this,later)
+  to.Do(unusedvar)
 }
 ```
