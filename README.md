@@ -19,6 +19,6 @@ var unusedvar int
 to.Do(unusedvar)
 ```
 
-for easy debuging
+Also you can use it for easy debuging.
 
 ![image](https://user-images.githubusercontent.com/43294688/139572539-8702009c-b909-441a-9b63-76cf6ae0f13e.png)
